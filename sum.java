@@ -4,8 +4,8 @@ public class MyFirstJavaProgram {
     public static void main(String []args) {
         int x,y;
         Scanner input= new Scanner(System.in);
-        x=input.next();
-        y=input.next();
+        x=input.nextInt();
+        y=input.nextInt();
         int sum= x+y;
     }
 }
