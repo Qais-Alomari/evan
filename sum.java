@@ -7,5 +7,6 @@ public class sum {
         x=input.nextInt();
         y=input.nextInt();
         int sum= x+y;
+
     }
 }
